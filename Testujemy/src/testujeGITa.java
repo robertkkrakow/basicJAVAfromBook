@@ -6,7 +6,9 @@ public class testujeGITa {
 		int a = 4, b = 6;
 		
 		System.out.println("a = " + a + " b = " + b + " Wynik dodawania: " + (a+b));
-		
+	
+		//a teraz mnożenie
+		System.out.println("a = " + a + " b = " + b + " Wynik dodawania: " + (a*b));
 	}
 	
 }
