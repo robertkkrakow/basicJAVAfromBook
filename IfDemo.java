@@ -8,8 +8,8 @@ class IfDemo {
 		int a,b,c;
 		
 		//deklaracja wartości zmiennych
-		a = 2;
-		b = 3;
+		a = 1;
+		b = 5;
 		c = a - b; //c będzie miało wartość -1
 		
 		System.out.println("a ma wartość: " + a + "\nb ma wartość: " + b + "\nc ma wartość: " + c);
