@@ -9,6 +9,11 @@ public class testujeGITa {
 	
 		//a teraz mnożenie
 		System.out.println("a = " + a + " b = " + b + " Wynik dodawania: " + (a*b));
+		
+		//i jeszcze odejmowanie
+		System.out.println("a = " + a + " b = " + b + " Wynik dodawania: " + (a-b));
+
+	
 	}
 	
 }
